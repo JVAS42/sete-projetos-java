@@ -10,9 +10,9 @@ Este desafio pessoal propõe uma imersão intensiva no universo da programação
 ### Lista
 
 - [ ] Calculadora em Java
+- [ ] CRUD em Java
 - [ ] Aplicativo de Lista de Compras em Java
 - [ ] Sistema de Faturamento em Java
-- [ ] Sistema de Gerenciamento Escolar/Universitário em Java
 - [ ] Sistema de Controle de Tráfego em Java
 - [ ] Plataforma de Rede Social em Java
 - [ ] Snake Game em Java
