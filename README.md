@@ -5,7 +5,7 @@
   </p>
 </div>
 
-Este desafio pessoal propõe uma imersão intensiva no universo da programação Java, através da criação de sete projetos em 21 dias cada que abrangem diversas áreas da aplicação prática da linguagem. Ao longo dessa jornada, vou ter a oportunidade de aprimorar minhas habilidades de codificação, design de software e resolução de problemas. Aqui estão os projetos que compõem esse desafio:
+Este desafio pessoal propõe uma imersão intensiva no universo da programação Java, através da criação de sete projetos em 14 dias cada que abrangem diversas áreas da aplicação prática da linguagem. Ao longo dessa jornada, vou ter a oportunidade de aprimorar minhas habilidades de codificação, design de software e resolução de problemas. Aqui estão os projetos que compõem esse desafio:
 
 ### Lista
 
